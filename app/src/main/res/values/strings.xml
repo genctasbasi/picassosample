@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Picasso Sample</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="click_to_download_the_image">Click to download the image</string>
+    <string name="download_failed">Uh oh download failed!</string>
+    <string name="download_succeed">Yey download succeed!</string>
+</resources>
